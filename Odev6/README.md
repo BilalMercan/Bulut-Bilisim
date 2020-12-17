@@ -1,2 +1,1 @@
-Ödev5 - Bulut Bilisim
-farklı kategorilere ayrılmış haberleri listeyen haberler uygulaması
+Ödev6 - Bulut Bilisim FetchAPI ile verileri, Flatlist ile listeme ve alert ile ilgili veri hakkında detay verilen uygulama
